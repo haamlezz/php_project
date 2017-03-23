@@ -1,0 +1,65 @@
+*,body,input{
+  font-family: 'Phetsarath OT';
+  color:#666666;
+}
+
+body{
+  margin: auto;
+}
+
+a{
+  color:#88C542;
+}
+a:hover{
+  color:#56B949;
+}
+
+.main{
+  margin: auto;
+  width: 90%;
+  padding-left: 30px;
+  padding-right:30px;
+}
+
+.menu{
+  margin: auto;
+  height: 47px;
+  border-bottom: thin solid #666666;
+}
+
+.menu ul{
+  padding: 0px;
+  list-style: none;
+}
+
+.menu li{
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.menu a{
+  text-decoration: none;
+}
+
+.content{
+  color:#333333;
+}
+
+.table{
+  width: 100%;
+  padding:0px;
+}
+.table td{
+  border-top:thin solid #666666;
+}
+
+.form-input{
+  width:50%;
+}
+
+.status-ok{
+  width: 100%;
+  background-color: #88C542;
+  border: solid thin #56B949;
+}
